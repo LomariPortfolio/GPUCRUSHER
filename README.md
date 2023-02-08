@@ -24,4 +24,4 @@ To stop it from working either ALT-F4 or turn off your pc 'cause your desktop pr
 
 
 
-### also the contents of the "Raylib stuff" folder can be used as template for making Raylib software ;)
+### also the contents of the "Raylib stuff" folder can be used as a template for making Raylib software ;)
