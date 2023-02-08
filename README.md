@@ -1,4 +1,4 @@
-# GPUCRUSHER
+# THE GPU-CRUSHER
 
 ### This piece of code that is made in raylib, draws 2^21 worth of squares that gives an average gpu a seizure from the draw calls
 
