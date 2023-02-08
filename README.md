@@ -7,3 +7,19 @@ To stop it from working either ALT-F4 or turn off your pc 'cause your desktop pr
 
 
 ![alt text](https://github.com/LomariPortfolio/GPUCRUSHER/blob/main/Taskmgr_AsiUNGKwmO.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### also the contents of the "Raylib stuff" folder can be used as template for making Raylib software ;)
